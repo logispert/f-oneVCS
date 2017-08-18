@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_shop_stock_search"
+        android:title="매장 재고 조회" />
+    <item
+        android:id="@+id/nav_online_dd"
+        android:title="온라인 직배송 조회/접수" />
+    <item
+        android:id="@+id/nav_shop_refund"
+        android:title="물류반품 등록" />
+    <item
+        android:id="@+id/nav_shop_real_stock"
+        android:title="실사 등록" />
+
+
+</menu>
