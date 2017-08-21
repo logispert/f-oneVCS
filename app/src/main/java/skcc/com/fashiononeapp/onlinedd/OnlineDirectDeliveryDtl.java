@@ -110,7 +110,7 @@ public class OnlineDirectDeliveryDtl extends AppCompatActivity {
                 param.putRecordSet("dsOutputMsg", reqLists2);
 
                 Log.d("REQ",param.toString());
-
+                Log.d("dddd","asdg");
 
                 /*
                 Intent intent = new Intent();
